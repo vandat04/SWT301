@@ -1,0 +1,4 @@
+username,email,fullName,password,confirmPassword,address,phone,expectedResult
+newuser1,test1@example.com,John Doe,123456,123456,Da Nang,0123456789,success
+newuser2,test2@example.com,Jane,123456,654321,Hanoi,0987654321,fail
+existingUser,test1@example.com,Existing,123456,123456,,0123456789,fail

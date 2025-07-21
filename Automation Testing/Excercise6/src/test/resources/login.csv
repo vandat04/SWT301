@@ -1,0 +1,3 @@
+username,password,expectedResult
+testuser,123456,success
+wronguser,wrongpass,fail
